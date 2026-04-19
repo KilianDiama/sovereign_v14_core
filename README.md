@@ -16,3 +16,5 @@ Hardware Acceleration: Native CUDA support for GPU-accelerated training.
 Explainable AI (XAI): Built-in SHAP integration for deep feature insight.
 
 Production Ready: Fully compatible with the scikit-learn API (fit/predict).
+
+https://github.com/diama-ai/-SovereignFusion-V10-Multimodal-AI-for-Cancer-Risk-Modeling-Research-Prototype-
